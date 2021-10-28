@@ -1,2 +1,2 @@
 # Dice-Roller-
-A dice roller app made with Kotlin | Android Studio
+A dice roller Android app made with Kotlin | Android Studio
